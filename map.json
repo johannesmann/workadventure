@@ -9,7 +9,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":37,
          "x":0,
          "y":0
@@ -21,7 +21,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":37,
          "x":0,
          "y":0
@@ -44,7 +44,7 @@
                  "value":"Plenum"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":37,
          "x":0,
          "y":0
@@ -56,7 +56,7 @@
          "name":"wall",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":37,
          "x":0,
          "y":0
@@ -68,7 +68,7 @@
          "name":"Stuff on wall",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":37,
          "x":0,
          "y":0
@@ -81,19 +81,19 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"Breakout-1"
+                 "value":"https:\/\/miro.com\/app\/board\/o9J_lE54Rg0=\/?moveToWidget=3074457358761414854&cot=14"
                 }, 
                 {
-                 "name":"jitsiTrigger",
+                 "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
                 }, 
                 {
-                 "name":"jitsiTriggerMessage",
+                 "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Leertaste dr\u00fccken um Jitsi-Raum beizutreten"
+                 "value":"Leertaste dr\u00fccken um Aufgabe anzusehen."
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -124,7 +124,7 @@
                  "value":"Leertaste dr\u00fccken um Jitsi-Raum beizutreten"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":37,
          "x":0,
          "y":0
@@ -152,7 +152,7 @@
                  "value":"Leertaste dr\u00fccken um Jitsi-Raum beizutreten"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":37,
          "x":0,
          "y":0
@@ -180,7 +180,7 @@
                  "value":"Leertaste dr\u00fccken um Jitsi-Raum beizutreten"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":37,
          "x":0,
          "y":0
@@ -208,7 +208,7 @@
                  "value":"Leertaste dr\u00fccken um Jitsi-Raum beizutreten"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":37,
          "x":0,
          "y":0
@@ -236,7 +236,7 @@
                  "value":"Leertaste dr\u00fccken um Jitsi-Raum beizutreten"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":37,
          "x":0,
          "y":0
@@ -248,7 +248,7 @@
          "name":"BreakoutTische",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":37,
          "x":0,
          "y":0
@@ -260,7 +260,7 @@
          "name":"BreakoutChairs",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":37,
          "x":0,
          "y":0
@@ -272,7 +272,7 @@
          "name":"PlenumChairs",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":37,
          "x":0,
          "y":0
@@ -284,7 +284,7 @@
          "name":"PlenumDesks",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":37,
          "x":0,
          "y":0
@@ -296,7 +296,7 @@
          "name":"DekoMoebel",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":37,
          "x":0,
          "y":0
@@ -308,7 +308,7 @@
          "name":"Dinge auf Moebeln",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":37,
          "x":0,
          "y":0
@@ -320,7 +320,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -331,7 +331,7 @@
          "name":"MoebelUeberKopf",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":37,
          "x":0,
          "y":0
