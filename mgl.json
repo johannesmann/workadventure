@@ -881,7 +881,7 @@
         {
          "columns":20,
          "firstgid":342,
-         "image":"..\/Tilesets\/RPG Nature Tileset.png",
+         "image":"RPG Nature Tileset.png",
          "imageheight":288,
          "imagewidth":641,
          "margin":0,
@@ -894,7 +894,7 @@
         {
          "columns":16,
          "firstgid":522,
-         "image":"..\/Tilesets\/Dungeon_Tileset2.png",
+         "image":"Dungeon_Tileset2.png",
          "imageheight":640,
          "imagewidth":512,
          "margin":0,
@@ -907,7 +907,7 @@
         {
          "columns":19,
          "firstgid":842,
-         "image":"..\/Tilesets\/Serene_Village_32x32.png",
+         "image":"Serene_Village_32x32.png",
          "imageheight":1440,
          "imagewidth":608,
          "margin":0,
@@ -920,7 +920,7 @@
         {
          "columns":8,
          "firstgid":1697,
-         "image":"..\/Tilesets\/tileset_town_multi_v002.png",
+         "image":"tileset_town_multi_v002.png",
          "imageheight":2240,
          "imagewidth":256,
          "margin":0,
